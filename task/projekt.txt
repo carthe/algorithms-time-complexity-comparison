@@ -1,0 +1,16 @@
+projekty ASD (ostatnie zajęcia - prezentacja projektu)
+
+1. algorytmy sortowania, pomiar czasu działania
+
+* kod programu w C, tabelka (nazwa algorytmu; czas działania : posortowana; czas działania odwrotnie posortowana; czas działania losowa) 
+
+* dużo elementów (tysiąc, 10 tysięcy)
+
+2. kodowanie huffmana z pliku do pliku binarnego (może być inny język - pod warunkiem nie korzystania z gotowych funkcji)
+
+*długi ciąg znaków - żeby była widoczna kompresja
+
+
+__
+
+OBA PROJEKTY TRZEBA UMIEĆ ZAPREZENTOWAĆ
