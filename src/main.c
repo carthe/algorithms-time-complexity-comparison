@@ -10,7 +10,6 @@ int main(int argc, char *argv[]){
     printf("\n** Sorting algorithms comparator **\n");
 
     //parse argument
-
     int tabsize = atoi(argv[1]);
 	int array[tabsize];
 
@@ -18,7 +17,7 @@ int main(int argc, char *argv[]){
     clock_t clock_end;
     double elapsedtime;
 
-    //populacja tablicy
+    //populate array
     srand( time( NULL ) );
 	for (int i=0; i < tabsize; i++)
 	    array[i] = rand() % tabsize;

@@ -1,7 +1,7 @@
 Algorytmy sortowania
 Pomiar czasu działania
 
-Pomiar wykonano przy użyciu trzech algorytmów sortowania: heapsort, quicksort, bubblesort.
+Pomiar wykonano przy użyciu trzech algorytmów sortowania: heapsort, quicksort (mediana), bubblesort.
 Przez każdy algorytm przepuszczono tablicę[N] liczb losowych, tablicę posortowaną, a następnie tablicę odwrotnie posortowaną; gdzie N stanowi długość tablicy.
 
 N = 10000
@@ -23,3 +23,10 @@ QUICKSORT	0.018	0.008	0.009
 BUBBLESORT	40.115	12.368	35.298
 
 WNIOSKI
+Najlepiej pod względem czasu wykonywania wypada quicksort. 
+W przypadku posortowanych tablic algorytm wykonywał się prawie natychmiastowo.
+
+Heapsort przy mniejszej ilości elementów praktycznie dorównuje sortowaniu quicksort, jednak wraz ze wzrostem N czas zauważalnie wzrastał. Co ciekawe czas wykonywania był podobny bez względu na wejściowy stan tablicy.
+
+Czas wykonywania algorytmu najbardziej wyróżnia się w przypadku sortowania bubblesort. 
+Jest najmniej wydajny ze wszystkich porównywanych metodach, jednak jego kod zawiera się w kilku linijkach.

@@ -1,44 +1,44 @@
 PS D:\Projects\PJATK\Algorithms and data structures\Projekt\bin> .\sorting_time_compare.exe 10000
 
 ** Sorting algorithms comparator **
-Time elpased: 0.003000 seconds using heapsort on random array
-Time elpased: 0.002000 seconds using heapsort on sorted array
-Time elpased: 0.001000 seconds using heapsort on reversed array
+Sorted in 0.003000 seconds using heapsort on random array
+Sorted in 0.002000 seconds using heapsort on sorted array
+Sorted in 0.001000 seconds using heapsort on reversed array
 
-Time elpased: 0.001000 seconds using quicksort on random array
-Time elpased: 0.001000 seconds using quicksort on sorted array
-Time elpased: 0.001000 seconds using quicksort on reversed array
+Sorted in 0.001000 seconds using quicksort on random array
+Sorted in 0.001000 seconds using quicksort on sorted array
+Sorted in 0.001000 seconds using quicksort on reversed array
 
-Time elpased: 0.394000 seconds using bubblesort on random array
-Time elpased: 0.125000 seconds using bubblesort on sorted array
-Time elpased: 0.336000 seconds using bubblesort on reversed array
+Sorted in 0.394000 seconds using bubblesort on random array
+Sorted in 0.125000 seconds using bubblesort on sorted array
+Sorted in 0.336000 seconds using bubblesort on reversed array
 
 PS D:\Projects\PJATK\Algorithms and data structures\Projekt\bin> .\sorting_time_compare.exe 50000
 
 ** Sorting algorithms comparator **
-Time elpased: 0.017000 seconds using heapsort on random array
-Time elpased: 0.012000 seconds using heapsort on sorted array
-Time elpased: 0.011000 seconds using heapsort on reversed array
+Sorted in 0.017000 seconds using heapsort on random array
+Sorted in 0.012000 seconds using heapsort on sorted array
+Sorted in 0.011000 seconds using heapsort on reversed array
 
-Time elpased: 0.009000 seconds using quicksort on random array
-Time elpased: 0.003000 seconds using quicksort on sorted array
-Time elpased: 0.005000 seconds using quicksort on reversed array
+Sorted in 0.009000 seconds using quicksort on random array
+Sorted in 0.003000 seconds using quicksort on sorted array
+Sorted in 0.005000 seconds using quicksort on reversed array
 
-Time elpased: 10.031000 seconds using bubblesort on random array
-Time elpased: 3.059000 seconds using bubblesort on sorted array
-Time elpased: 8.514000 seconds using bubblesort on reversed array
+Sorted in 10.031000 seconds using bubblesort on random array
+Sorted in 3.059000 seconds using bubblesort on sorted array
+Sorted in 8.514000 seconds using bubblesort on reversed array
 
 PS D:\Projects\PJATK\Algorithms and data structures\Projekt\bin> .\sorting_time_compare.exe 100000
 
 ** Sorting algorithms comparator **
-Time elpased: 0.032000 seconds using heapsort on random array
-Time elpased: 0.026000 seconds using heapsort on sorted array
-Time elpased: 0.025000 seconds using heapsort on reversed array
+Sorted in 0.032000 seconds using heapsort on random array
+Sorted in 0.026000 seconds using heapsort on sorted array
+Sorted in 0.025000 seconds using heapsort on reversed array
 
-Time elpased: 0.018000 seconds using quicksort on random array
-Time elpased: 0.008000 seconds using quicksort on sorted array
-Time elpased: 0.009000 seconds using quicksort on reversed array
+Sorted in 0.018000 seconds using quicksort on random array
+Sorted in 0.008000 seconds using quicksort on sorted array
+Sorted in 0.009000 seconds using quicksort on reversed array
 
-Time elpased: 40.115000 seconds using bubblesort on random array
-Time elpased: 12.368000 seconds using bubblesort on sorted array
-Time elpased: 35.298000 seconds using bubblesort on reversed array
+Sorted in 40.115000 seconds using bubblesort on random array
+Sorted in 12.368000 seconds using bubblesort on sorted array
+Sorted in 35.298000 seconds using bubblesort on reversed array
