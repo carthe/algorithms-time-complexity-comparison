@@ -1,0 +1,25 @@
+Algorytmy sortowania
+Pomiar czasu działania
+
+Pomiar wykonano przy użyciu trzech algorytmów sortowania: heapsort, quicksort, bubblesort.
+Przez każdy algorytm przepuszczono tablicę[N] liczb losowych, tablicę posortowaną, a następnie tablicę odwrotnie posortowaną; gdzie N stanowi długość tablicy.
+
+N = 10000
+ALGORITHM	RANDOM 	SORTED 	REVERSED
+HEAPSORT	0.003	0.002	0.001
+QUICKSORT	0.001	0.001	0.001
+BUBBLESORT	0.394	0.125	0.336
+
+N = 50000
+ALGORITHM	RANDOM	SORTED	REVERSED
+HEAPSORT	0.017	0.012	0.011
+QUICKSORT	0.009	0.003	0.005
+BUBBLESORT	10.031	3.059	8.514
+
+N = 100000
+ALGORITHM	RANDOM	SORTED	REVERSED
+HEAPSORT	0.032	0.026	0.025
+QUICKSORT	0.018	0.008	0.009
+BUBBLESORT	40.115	12.368	35.298
+
+WNIOSKI
